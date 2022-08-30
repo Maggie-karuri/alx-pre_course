@@ -1,1 +1,3 @@
-touch /alx-pre_course/up_to_date
+git fetch
+git status
+git pull
